@@ -1,0 +1,32 @@
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.exe
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.deps.json
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.json
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.dll
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ref\ConsoleApp3.dll
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.pdb
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.dll
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ref\ConsoleApp3.dll
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.pdb
+C:\Users\ПК\Desktop\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.genruntimeconfig.cache
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.exe
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.deps.json
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.json
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.dll
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ref\ConsoleApp3.dll
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.pdb
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.dll
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ref\ConsoleApp3.dll
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.pdb
+C:\Users\ПК\Desktop\C#\4 Практическая\Console 3\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.genruntimeconfig.cache
